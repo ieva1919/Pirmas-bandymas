@@ -20,5 +20,9 @@ public class fiveTask {
         }
 
         System.out.println("Ivesti zodziai: " + Arrays.toString(mas)); //parodo masyve
+
+
     }
 }
+
+
